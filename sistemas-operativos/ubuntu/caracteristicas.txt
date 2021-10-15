@@ -1,2 +1,3 @@
 Ubuntu es un sistema operativo básado en linux el cuál permite tener diversas funcionalidades. 
 Además es open source y se gestiona principalmente con ĆLI o línea de comandos. 
+..
